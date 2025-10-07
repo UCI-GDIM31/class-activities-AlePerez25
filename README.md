@@ -3,7 +3,10 @@
 ### W1
 "Hello world!"
 ### W2
-Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
+
+The variables r, g and b are floats because there are fractional numbers not base 10 numbers.
+The _bounce variable an int instead of a float, bool, or string beacuse _bounce is a whole number. 
+The error that I got after step 4 was a "missing semicolon". This reminds me that is import not to forgot the ";" at the end of each code to be able to run it.
 
 ## Open-Source Assets
 ### W1
