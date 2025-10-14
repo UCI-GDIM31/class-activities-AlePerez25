@@ -11,7 +11,16 @@ The error that I got after step 4 was a "missing semicolon". This reminds me tha
 
 ### W3
 
-We you make the parameter "friendship level = 0%-100%" and the return type (output) "type boolean = True(yes secret)/false(no secreat)".
+Part 1:
+We make the parameter "friendship level = 0%-100%" and the return type (output) "type boolean = True(yes secret)/false(no secreat)".
+
+Part 2:
+1# Classes are used to implement/create components the metaphor that we create is "classes are like the ingredients of a plate. For example, classes can be the egg, or cake batter. And component is the cake"
+
+2# We think the balls get extremely bright if they bounce
+too much beacuse each time they bounce the ball color multiplier
+is applied making the values higher and in turn making the color
+brighter.
 
 ### a flag is the same as booleans.
 
