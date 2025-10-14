@@ -9,7 +9,7 @@ The variables r, g and b are floats because there are fractional numbers not bas
 The _bounce variable an int instead of a float, bool, or string beacuse _bounce is a whole number. 
 The error that I got after step 4 was a "missing semicolon". This reminds me that is import not to forgot the ";" at the end of each code to be able to run it.
 
-# Week 3
+### W3
 
 We you make the parameter "friendship level = 0%-100%" and the return type (output) "type boolean = True(yes secret)/false(no secreat)".
 
