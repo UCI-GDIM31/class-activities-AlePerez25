@@ -15,6 +15,7 @@ Part 1#
 We make the parameter "friendship level = 0%-100%" and the return type (output) "type boolean = True(yes secret)/false(no secreat)".
 
 Part 2#
+
 1# Classes are used to implement/create components the metaphor that we create is "classes are like the ingredients of a plate. For example, classes can be the egg, or cake batter. And component is the cake"
 
 2# We think the balls get extremely bright if they bounce
