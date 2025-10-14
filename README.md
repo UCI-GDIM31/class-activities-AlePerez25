@@ -11,7 +11,7 @@ The error that I got after step 4 was a "missing semicolon". This reminds me tha
 
 ### W3
 
-We you make the parameter "friendship level = 0%-100%" and the return type (output) "type boolean = True(yes secret)/false(no secreat)".
+We choose as the parameter "friendship level = 0%-100%" and for the return type (output) "type boolean = True(yes secret)/false(no secreat)".
 
 ### a flag is the same as booleans.
 
