@@ -21,14 +21,14 @@ public class SoccerBall : MonoBehaviour
     //
     // Also, uncomment and FIX the Debug.Log line.
 
-    private float speed = 0f;
+    private float Tgoal = 0f;
 
     int _points = 0;
     //Step 6
     private void Update()
     {
-        speed += Time.deltaTime;
-        _timeText.text = "Time: " + speed.ToString();
+        Tgoal += Time.deltaTime;
+        _timeText.text = "Time: " + Tgoal.ToString();
 
     }
 
@@ -96,7 +96,7 @@ public class SoccerBall : MonoBehaviour
     _points++;
     _pointsText.text = "Point: " + _points; 
 //step 6
-       speed = 0f;
+       Tgoal = 0f;
 
     }
     // Do your best to code this.
