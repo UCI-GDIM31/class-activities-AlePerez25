@@ -30,6 +30,19 @@ In line number 5, it seems that a new variable called _moveSpeed of type float (
 2:
 The decisions I made were to add Rigidbodies to the cat and the ball because I needed them to be able to move around the game without falling. In the case of the ball, I needed this because it needs to bounce and move naturally around the area. For the goal, I checked Is Trigger On because it doesn't need to move.
 
+### W5
+
+1) 
+I thought the method to activate a Vector3 would have to be start(), but it seems to be update(). Can you use a Start() method together with an update() to activate it from the beginning?
+A: yes you can and often should use both Start()[for continuous behavior] and Update()[for initial setup] together
+
+(I was not present in class, but I thought of a question and researched it. I hope this is correct.)
+
+2) 
+I think that in this activity, the member variables we might need include one to set the speed at which the deer will move, and another one for the Transform but I'm not sure how to declare this.
+The method this class should probably have is Start(), because the deer is supposed to move as soon as the player presses start.
+Maybe also an Update(), but I’m not completely sure, since the instructions don’t say that the action should be repeated multiple times.
+
 
 ### a flag is the same as booleans.
 

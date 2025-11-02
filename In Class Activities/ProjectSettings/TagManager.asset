@@ -8,6 +8,7 @@ TagManager:
   - Item
   - Wall
   - Goal
+  - Ball
   layers:
   - Default
   - TransparentFX
