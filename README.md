@@ -43,6 +43,18 @@ I think that in this activity, the member variables we might need include one to
 The method this class should probably have is Start(), because the deer is supposed to move as soon as the player presses start.
 Maybe also an Update(), but I’m not completely sure, since the instructions don’t say that the action should be repeated multiple times.
 
+## W6
+
+My catagory assign is (Math)
+https://docs.google.com/document/d/1O1Z4J196hUgrUu8E1KjuXLG0qGOnDDlSYW_Ya_sPJhE/edit?usp=sharing 
+
+
+- Speed variable. 
+- Enable() method to stop the bats movement.  
+- We would need to use a for-loop to attach all of the bath to the catplayer and for   the loop we would definitely use Update() to run the code multiple times and definitely the Start() method but I’m unsure were maybe for make the bat chase the player since  the beginning .
+- We need to make the variables with this [SerializeField]
+  at the beginning.
+
 
 ### a flag is the same as booleans.
 
