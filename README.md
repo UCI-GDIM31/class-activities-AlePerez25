@@ -55,6 +55,14 @@ https://docs.google.com/document/d/1O1Z4J196hUgrUu8E1KjuXLG0qGOnDDlSYW_Ya_sPJhE/
 - We need to make the variables with this [SerializeField]
   at the beginning.
 
+### W7
+
+The error in step 2 was that the += was not needed in any aspect of the code; only parentheses were needed, and instead of position, it needed to be replaced with Translate (transform.Traslate)
+
+Group activite:
+https://docs.google.com/document/d/1bQPAv1mL70Yfxq_kHDeEPWBOi8I3CRvs9G-moxCYlJU/edit?usp=sharing
+
+My role is "Animation"
 
 ### a flag is the same as booleans.
 
